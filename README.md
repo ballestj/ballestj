@@ -1,7 +1,6 @@
 # Hi, I'm Jorge! 🌊
 
 I'm an Economics student at [Columbia University](https://www.columbia.edu) and [Sciences Po Paris](https://www.sciencespo.fr/en/) based in New York! 
-[![Profile views](https://komarev.com/ghpvc/?username=ballestj&style=flat-square&color=9BCBEB&label=profile+views)]()
 
 ---
 

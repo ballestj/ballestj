@@ -1,6 +1,6 @@
 # Hi, I'm Jorge! 🌊
 
-I'm an Economics student at [Columbia University](https://www.columbia.edu) and [Sciences Po Paris](https://www.sciencespo.fr/en/) based in New York! 
+I'm an Economics graduate at [Columbia University](https://www.columbia.edu) and [Sciences Po Paris](https://www.sciencespo.fr/en/)!  
 
 ---
 
@@ -40,7 +40,7 @@ Spoken        English · Spanish · French (native) · Portuguese (fluent) · Ru
 
 ### Background
 
-4.03 GPA · Dual BA in Economics and Political Philosophy · Ilse S. Mintz Scholar at Columbia · Cum Laude at Sciences Po.  
+4.04 GPA · Dual BA in Economics and Political Philosophy, Magna Cum Laude · Phi Beta Kappa · Ilse S. Mintz Scholar at Columbia ·
 Previously: Behavioral Econ RA @ Columbia 
 Research interests: behavioral finance · climate finance · political economy of capital markets · decision-making under uncertainty.
 

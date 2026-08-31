@@ -1,6 +1,6 @@
 # Hi, I'm Jorge! 🌊
 
-I'm an Economics graduate at [Columbia University](https://www.columbia.edu) and [Sciences Po Paris](https://www.sciencespo.fr/en/)!  
+I'm a Researcher at [Chicago Booth](https://www.chicagobooth.edu) and an Economics graduate at [Columbia University](https://www.columbia.edu) and [Sciences Po Paris](https://www.sciencespo.fr/en/)!  
 
 ---
 
